@@ -28,6 +28,10 @@ i {
     width: 300px;
 }
 
+.btnSearch {
+    border-radius: 30px;
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
