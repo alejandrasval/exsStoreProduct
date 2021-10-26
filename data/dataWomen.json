@@ -1,0 +1,58 @@
+{
+    "women": [
+    {
+      "id": 1,
+      "name": "Backpack",
+      "price": 500,
+      "image": "./images/product1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 350,
+      "image": "./images/product4.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Handbag",
+      "price": 300,
+      "image": "./images/product7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Shoes",
+      "price": 525,
+      "image": "./images/product8.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Shoes",
+      "price": 475,
+      "image": "./images/product10.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Wristwatch",
+      "price": 205,
+      "image": "./images/product12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Handbag",
+      "price": 105,
+      "image": "./images/product13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Shoes",
+      "price": 100,
+      "image": "./images/product14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Shoes",
+      "price": 110,
+      "image": "./images/product3.jpg"
+    }
+  ]
+}

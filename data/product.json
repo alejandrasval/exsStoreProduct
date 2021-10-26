@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "category": "female",
+      "price": "50.000",
+      "description": "lorem ipsum",
+      "name": "shoes",
+      "id": 1
+    },
+    {
+      "category": "female",
+      "price": "50.000",
+      "description": "lorem ipsum",
+      "name": "shoes",
+      "id": 2
+    },
+    {
+      "category": "masculine",
+      "price": "50000",
+      "description": "lorem ipsum",
+      "name": "shoes",
+      "id": 3
+    }
+  ]
+}

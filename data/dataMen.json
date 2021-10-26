@@ -1,0 +1,58 @@
+{
+  "men": [
+    {
+      "id": 2,
+      "name": "Clothing",
+      "price": 750,
+      "image": "./images/product2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shoes",
+      "price": 400,
+      "image": "./images/product3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Clothing",
+      "price": 225,
+      "image": "./images/product5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Clothing",
+      "price": 150,
+      "image": "./images/product6.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Shoes",
+      "price": 425,
+      "image": "./images/product9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Shoes",
+      "price": 475,
+      "image": "./images/product10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Wristwatch",
+      "price": 345,
+      "image": "./images/product11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Wristwatch",
+      "price": 205,
+      "image": "./images/product12.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Shoes",
+      "price": 320,
+      "image": "./images/product14.jpg"
+    }
+  ]
+}

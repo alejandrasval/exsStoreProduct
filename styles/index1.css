@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    top: 0;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #252827;
+}
+
+i {
+    font-size: 32px;
+    color: white;
+}
+
+.searchBar{
+    display: inline;
+}
+
+#inputSearch{
+    width: 300px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.row {
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.category {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#home {
+    background-color: #ecf0f1;
+    font-family: var(--font-family);
+    font-family: 'Zen Kaku Gothic Antique';
+    font-style: normal;
+}
+
+#woman {
+    width: 65px;
+    margin-left: 10px;
+}
+
+#man {
+    width: 75px;
+    margin-left: 10px;
+}
+
+.category-women, .category-men {
+    padding: 30px;
+}
+
+.card {
+    background: none;
+    border: none;
+    align-items: center;
+}
+
+.card-img {
+    text-align: center;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px dotted;
+}
+
+.card-title {
+    color: #000000;
+    font-size: 32px;
+}
+
+.card-text {
+    color: #000000;
+    font-size: 24px;
+    font-weight: 300;
+}
+.search{
+    
+    border: 2px solid  var(--primary-color);
+    border-radius:50px;
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+.search::placeholder{
+    color:#7378c5;
+}
+
+.search:focus{
+    outline: none;
+    background-color: #ddd;
+}

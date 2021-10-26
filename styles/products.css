@@ -1,0 +1,102 @@
+h1 {
+    margin-top: 50px;
+}
+
+nav {
+    top: 0;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #252827;
+}
+
+i {
+    font-size: 32px;
+    color: white;
+}
+
+.searchBar{
+    display: inline;
+}
+
+#inputSearch{
+    width: 300px;
+    height: 30px;
+}
+
+body {
+    font-family: 'Zen Kaku Gothic Antique';
+    font-size: 16px;
+    text-align: center;
+}
+
+form {
+    background-color: #F0D9FF;
+    border: none;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+label {
+    font-size: 20px;
+    display: block;
+}
+
+form input {
+    border-radius: 30px;
+    border: none;
+    width: 50%;
+    height: 30px;
+}
+
+nav {
+    top: 0;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #252827;
+}
+
+i {
+    font-size: 32px;
+    color: white;
+}
+
+.searchBar{
+    display: inline;
+}
+
+#inputSearch{
+    width: 300px;
+    height: 30px;
+}
+.btnSearch {
+    border-radius: 30px;
+}
+
+.camp{
+    margin: 20px;
+}
+
+.btn-form {
+    background-color: #7F7C82;
+    border-radius: 30px;
+    border: none;
+    font-family: 'Zen Kaku Gothic Antique';
+    font-size: 16px;
+    color: white;
+    width: 100px;
+    height: 40px;
+}
+
+.btn-form:hover{
+    cursor: pointer;
+    opacity: 80%;
+}
